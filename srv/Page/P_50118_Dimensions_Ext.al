@@ -17,8 +17,13 @@ pageextension 50118 "Dimensions_Ext" extends Dimensions
     {
         // Add changes to page actions here
     }
+    [IntegrationEvent(false, false)]
+    local procedure MyProcedure(Var Item: Record Item; Var ItelLedgerEntry: Record "Item Ledger Entry";)
+    begin
+    end;
 
     var
         myInt: Integer;
+
 }
 
