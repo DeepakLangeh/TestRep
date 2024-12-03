@@ -1,0 +1,28 @@
+{
+  "id": "7a9955ca-1b53-4f3f-b668-cb483dbf93ed",
+  "name": "VAT Extension",
+  "publisher": "LS Infotech FZZ",
+  "version": "1.0.0.0",
+  "brief": "To flow narration in all the posted documents and respective ledgers",
+  "description": "LSI Narration Functionality",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "./Logo/LSI.jpeg",    
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "18.0.0.0",
+  
+  "idRanges": [
+    {
+      "from": 50000,
+      "to": 50400      
+    }
+  ],
+  "contextSensitiveHelpUrl": "https://lsinfotech.ae/contact.html",
+  "showMyCode": false,  
+  "target" :"OnPrem",
+  "runtime": "7.0"
+}
